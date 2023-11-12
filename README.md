@@ -11,7 +11,7 @@ My First Respository
   "Studio": "Toei",
 
 - [x] Watched
-- [ ] Makred to be watched
+- [ ] Makrked to be watched
 }
 
 3. Dragon Ball Super: Broly
@@ -20,7 +20,7 @@ My First Respository
   "Studio": "Toei",
 
 - [x] Watched
-- [ ] Makred to be watched
+- [ ] Marked to be watched
 }
    
 5. The Silent Voice
@@ -29,7 +29,7 @@ My First Respository
   "Studio": "Kyoto Animation",
 
 - [x] Watched
-- [ ] Makred to be watched
+- [ ] Marked to be watched
 }
 
 
