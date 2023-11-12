@@ -11,7 +11,7 @@ My First Respository
   "Studio": "Toei",
 
 - [x] Watched
-- [ ] Makrked to be watched
+- [ ] Marked to be watched
 }
 
 3. Dragon Ball Super: Broly
